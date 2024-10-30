@@ -12,7 +12,7 @@ body {
 }
 
 body::before {
-  background-image: url("/img/code.png");
+  background-image: url("../img/code.png");
   background-repeat: repeat;
   background-position: right;
   content: "";
